@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2018 Johan Manner
+Copyright (c) 2018 Scouterna
+
+Based on Cerberus email patterns, (c) Ted Goas: https://github.com/TedGoas/Cerberus
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
