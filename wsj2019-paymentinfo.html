@@ -316,6 +316,11 @@
                         <p>
                             Innan jamboreen ska du betala resterande avgift enligt nedanstående plan. Hela din avgift är {{ total_amount }} kr, och samtliga inbetalningar ska göras med OCR-nummer {{ ocr }}.
                         </p>
+                        <p style="line-height: 2em;">
+                            <strong>Ansökningsavgift:</strong> 3000 kr<br>
+                            <strong>{{ payment[1].date }}</strong> {{ payment[1].amount }}<br>
+                            <strong>{{ payment[2].date }}</strong> {{ payment[2].amount }}<br>
+                        </p>
                     </td>
                 </tr>
                 <!-- 1 Column Text + Button : END -->
